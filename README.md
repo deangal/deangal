@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deangal
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on React Prjocets
+- 💞️ I’m looking to collaborate on React Projcets
 - 📫 How to reach me www.linkedin.com/in/deangal
 
 <!---
