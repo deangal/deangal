@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @deangal
+###  Hi, I am Dean Gal!👋
+
+- 🔧 I’m currently working on My Bunldes.
+- 🌱 I’m currently learning Python and Typescript 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on React Projcets
 - 📫 How to reach me www.linkedin.com/in/deangal
 
