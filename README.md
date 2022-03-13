@@ -2,7 +2,7 @@
 
 - 🔧 I’m currently working on My Bunldes.
 - 🌱 I’m currently learning Python and Typescript 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Algorithms
 - 💞️ I’m looking to collaborate on React Projcets
 - 📫 How to reach me www.linkedin.com/in/deangal
 
